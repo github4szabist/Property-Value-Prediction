@@ -1,9 +1,5 @@
 <h1>Property Value Prediction<h1>
-<h3>
-	Muhammad Usman - 1912158
-	<br>
-	Burhanuddin Halai - 1912143
-</h3>
+<h3>Muhammad Usman - 1912158<br>Burhanuddin Halai - 1912143</h3>
 <h4>Important Points</h4>
 <ul>
 	<li>The code for the Flask app is in the Module3 directory</li>
