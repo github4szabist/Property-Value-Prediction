@@ -1,11 +1,10 @@
-<h1>
-	Property Value Prediction
-	<br>
+<h1>Property Value Prediction<h1>
+<h3>
 	Muhammad Usman - 1912158
 	<br>
 	Burhanuddin Halai - 1912143
-</h1>
-<h2>Important Points</h2>
+</h3>
+<h4>Important Points</h4>
 <ul>
 	<li>The code for the Flask app is in the Module3 directory</li>
 	<li>Dockerfile and requirements.txt are also in the same directory</li>
