@@ -21,7 +21,7 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           context: .
-          file: ./Module3/Dockerfile  # Adjust the path if needed
+          file: ../Module3/Dockerfile  # Adjust the path if needed
           push: true
         env:
           DOCKER_USERNAME: ${{ secrets.DOCKERHUB_USERNAME }}
