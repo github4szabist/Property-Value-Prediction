@@ -1,9 +1,14 @@
-<h1>Property Value Prediction</h1>
+<h1>
+	Property Value Prediction
+	<br>
+	Muhammad Usman - 1912158
+	<br>
+	Burhanuddin Halai - 1912143
+</h1>
 <h2>Important Points</h2>
 <ul>
 	<li>The code for the Flask app is in the Module3 directory</li>
-	<li>Dockerfile and requirements.txt are also in the smae directory</li>
-	<li>This repo is to showcase the FYP Project for Muhammad Usman (1912158) and Burhanuddin Halai (1912143)</li>
+	<li>Dockerfile and requirements.txt are also in the same directory</li>
 	<li>Module1 contains the code for the AWS serverless lambda function</li>
 	<li>
 		Module2 contains the code for:
