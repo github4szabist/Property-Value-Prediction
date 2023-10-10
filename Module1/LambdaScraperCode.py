@@ -4,24 +4,26 @@ from csv import writer
 from re import sub
 from requests import get
 
+#user specific variables
 S3 = client(
 	"s3",
-	aws_access_key_id = "",
-	aws_secret_access_key = ""
+	aws_access_key_id = "your access key id",
+	aws_secret_access_key = "your secret access key"
 )
 SES = client(
 	"ses",
-	aws_access_key_id = "",
-	aws_secret_access_key = "",
-	region_name = ""
+	aws_access_key_id = "your access key id",
+	aws_secret_access_key = "your secret access key",
+	region_name = "the region name"
 )
 SSM = client(
 	"ssm",
-	aws_access_key_id = "",
-	aws_secret_access_key = "",
-	region_name = ""
+	aws_access_key_id = "your access key id",
+	aws_secret_access_key = "your secret access key",
+	region_name = "the region name"
 )
-bucket = ""
+bucket = "your bucket"
+email = "your email"
 
 oddValues = ["-"]
 firstLink = "https://www.zameen.com/Homes/Karachi_DHA_Defence-213-1.html"
@@ -144,9 +146,9 @@ ignore = [
 	"Plot Features",
 	"Rooms"
 ]
-Source = "usman.sikandar98@gmail.com"
+Source = email
 Destination = {
-	"ToAddresses": [Source]
+	"ToAddresses": [email]
 }
 Message = {
 	"Subject": {
