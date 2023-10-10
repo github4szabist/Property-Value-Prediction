@@ -16,7 +16,7 @@
 			<li>data processing</li>
 			<li>models training</li>
 			<li>models testing</li>
-			<li>cretain UI components generation</li>
+			<li>certain UI components generation</li>
 			<li>graphs generation</li>
 			<li>models serialization</li>
 			<li>UI components serialization</li>
