@@ -19,4 +19,4 @@
 		</ul>
 	</li>
 	<li>You can follow the guides in the "Installation Guides" folder to implement our project yourself</li>
-	<li>Or you can use the Dockerfile and requirements.txt and the rest of the code in Module3 to directlybuild and test our project with docker</li>
+	<li>Or you can use the Dockerfile and requirements.txt and the rest of the code in Module3 to directly build and test our project with docker</li>
